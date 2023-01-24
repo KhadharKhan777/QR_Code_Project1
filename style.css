@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: rgb(211, 234, 254);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.external-box {
+    width : 350px;
+    height: 580px;
+    background-color: white;
+    border-radius: 5%;
+    margin :auto;
+    padding: 10px;
+    margin-top: 5%;
+}
+img {
+    width: 325px;
+    border-radius: 5%;
+    margin:5px auto 10px auto;
+}
+.text {
+    margin: 5px;
+    padding: 5px;
+}
+h2
+{
+    margin-bottom: 30px;
+}
+p {
+    margin: 10px auto 35px auto;
+    text-align: center;
+}
+span{
+    font-family:cursive;
+    font-size: 9px;
+    font-weight: bold;
+}
